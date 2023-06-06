@@ -1,0 +1,9 @@
+/**
+ * Returns the square of a number.
+ *
+ * @param {number} num The number to be squared.
+ * @returns {number} The square of the given number.
+ */
+function square(num) {
+  return num * num;
+}
